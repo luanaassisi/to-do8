@@ -1,0 +1,9 @@
+class DicasModel{
+    constructor(dica, dia, autor){
+        this.dica = dica
+        this.dia = dia
+        this.autor = autor
+    }
+}
+
+export default DicasModel
